@@ -14,6 +14,7 @@
       ">": "t_stairs_up",
       "№": "t_grate",
       "X": "t_potential_trans",
+      "з": "t_metal_floor_no_roof",
       "y": "t_concrete_wall",
       "э": "t_sewage_pipe",
       "ю": "t_sewage_pump",
